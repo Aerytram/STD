@@ -1,16 +1,4 @@
-#include <iostream>
-#include "stack.h"
+Halo! Saya Aghniya Erytama Ramadhan, seorang mahasiswa jurusan Informatika dengan minat dalam berbagai bidang teknologi. Saya senang berkolaborasi dalam proyek-proyek open source dan terus belajar dan berkembang sebagai seorang profesional.
 
-int main() {
-    std::string str;
-    std::cout << "Masukkan string: ";
-    std::cin >> str;
-
-    if (kurungSetangkup(str.c_str()))_1304211009 {
-        std::cout << "String Kurung Setangkup" << std::endl;
-    } else {
-        std::cout << "String Bukan Kurung Setangkup" << std::endl;
-    }
-
-    return 0;
-}
+Keahlian Utama
+Pemrograman: Memahami beberapa bahasa pemrograman seperti Python, C++, dan GoLang.
